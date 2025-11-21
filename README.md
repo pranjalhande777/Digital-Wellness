@@ -8,17 +8,18 @@ This project explores how students use social media and how it affects their sle
 Students today spend a large part of their day on social media.
 This project analyzes:
 
-1.Daily screen time
+1. Daily screen time
 
-2.Sleep hours and energy levels
+2. Sleep hours and energy levels
 
-3.Most-used social media platforms
+3. Most-used social media platforms
 
-4.Effects of relationship status on sleep and mental health
+4. Effects of relationship status on sleep and mental health
 
-5.Demographic profiles (age, gender, country, academic level)
+5. Demographic profiles (age, gender, country, academic level)
 
 Our findings highlight a strong relationship between high social media use and low sleep duration, which can directly impact mental health.
+
 
 * Key Insights
 Topic	Insight
@@ -28,7 +29,9 @@ Most Used Platform	Instagram
 Highest Student Count Location	India
 Relationship Status Effects	“Complicated” = lowest sleep
 
-Conclusion: Students with excessive screen time experience sleep deprivation, emotional stress, and potential academic impact.
+
+Conclusion: Students with excessive screen time experience sleep deprivation, emotional stress, and potential academic impact
+
 
 * Visuals & Dashboards Included
 
@@ -39,6 +42,7 @@ Social Media Popularity and Usage (Bar & Treemap)
 Age and Gender Distribution (Pie Charts)
 
 Sleep vs Relationship Status (Line Graph)
+
 
 * Project Objectives
 
