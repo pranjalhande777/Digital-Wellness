@@ -1,5 +1,5 @@
 
-# Student Social Media & Mental Health Analysis
+# Digital Wellness
 
 This project explores how students use social media and how it affects their sleep and overall well-being. The goal is to understand usage patterns, identify risk groups, and recommend ways to promote healthier digital habits.
 
